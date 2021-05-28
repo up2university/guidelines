@@ -1,3 +1,22 @@
 site_name: Up2U Guidelines
-theme: readthedocs
-
+repo_url: https://github.com/up2university/guidelines
+edit_uri: edit/public/docs/
+theme:
+  name: readthedocs
+  hljs_languages:
+    - yaml
+nav:
+  - Start: index.md
+  - Architecture: architecture.md
+  - Single Sign-On: sso.md
+  - Learning Management System: lms.md
+  - File Sync&Share: fss.md
+  - File Sync&Share - Nextcloud: fss_nextcloud.md
+  - File Sync&Share - CERNBox: fss_cernbox.md
+  - Jupyter: jupyter.md
+  - Jupyter - Vanilla Jupyter: jupyter_vanilla.md
+  - Jupyter - SWAN: jupyter_swan.md
+  - Video conferencing: vc.md
+  - Interoperability: interoperability/index.md
+  - Interoperability LMS-FSS: interoperability/lms_fss.md
+  - Interoperability Jupyter-FSS: interoperability/jupyter_fss.md
