@@ -24,6 +24,11 @@ under Grant Agreement No. 732049.
 6. [Video conferencing](vc.md)
 7. [Interoperability](interoperability/index.md)
 
+## Revisions
+
+These Guidelines were created in May 2021.
+Last updates in July 2021.
+
 ## Abbreviations
 
 - FSS - [File Sync&Share](https://en.wikipedia.org/wiki/Enterprise_file_synchronization_and_sharing)
